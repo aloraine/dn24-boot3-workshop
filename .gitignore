@@ -1,3 +1,6 @@
+### Apple stuff
+.DS_Store
+
 ### Eclipse/STS ###
 target/
 !.mvn/wrapper/maven-wrapper.jar
